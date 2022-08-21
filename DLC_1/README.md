@@ -17,7 +17,7 @@
 - Drogen können genutzt werden (und haben dann auch eine Wirkung)
 
 ## Personal Menu (K-Menü)
-- Job und Dukumentenverwaktung
+- Job und Dokumentenverwaltung
 - Neue Auffassung der Dispatches (Nummern des Absenders wird mitgeschickt; Zivile können sich untereinander Dispatches senden)
 - Neu überarbeitetes Kleidungsmenü (extras) für das Law Enforcement & SAFR
 - Neue Anordnung der SAFR Tools mit einem besseren Verwaltungsmenü (Optionmenu)
