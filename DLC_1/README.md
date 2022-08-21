@@ -43,7 +43,7 @@
 
 ## Business System 
 - CEO Büros (Mit dem Kauf eines Büros gründet man ein Unternehmen ohne Antrag)
-- Firmentyp (Unter den verschiedenen Firmentypen befinden sich die Dienstleistung, Mechniker und Logistk)
+- Firmentyp (Unter den verschiedenen Firmentypen befinden sich die Dienstleistung, Mechniker und Logistik)
 - Boss Interaktionen
 - Job Menü für alle Mitarbeiter
 - Jeder Mitarbeiter + CEO kann Rechnungen im Namen des Unternehmes ausstellen
