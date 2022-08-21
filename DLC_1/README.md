@@ -37,7 +37,7 @@
 - Weed Farm
 - Kokain Labor
 - Interaktives Arbeiten (Spieler müssen arbeiten um Ware herzustellen)
-- Ressourcen Kapazität (Um Abrieten zu können muss man die Nötigen Ressourcen im Lager haben)
+- Ressourcen Kapazität (Um Arbeiten zu können muss man die Nötigen Ressourcen im Lager haben)
 - Export von fertiger Ware nach Los Santos oder Blain County (Je nach dem bringt das eine mehr oder weniger Geld)
 - Fertige Ware kann auch als Item eingesammelt werden 
 
