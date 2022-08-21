@@ -28,7 +28,7 @@
 ## Bank Heist
 - Flexible Heists hinzugefügt (jede Bank kann ausgeraubt werden)
 - Hacken 
-- Synchronisierung eingebracht (Bank kann vollständig interaktiv mit anderen Spielern durchgeführt werden)
+- Synchronisierung eingebracht (Banküberfall kann vollständig interaktiv mit anderen Spielern durchgeführt werden)
 - Alarmverzögerung mithilfe eines Störsenders
 - Taschenkapazität
 
