@@ -8,12 +8,12 @@
 - Performance Verbesserungen
 - Anpassung von Löhnen
 - Parkplätze hinzugefügt 
-- F5 Menü entfernt 
+- F5 Menü entfernt
 - Quest hinzugefügt
 - Fahrzeug abschließen auf F5 gelegt
-- Waren des Waffenhändlers (Illegal) auf der Server-Seite überarbeitet 
-- Items werden bei Farmen pro Server-Run-Time (bis zum nächsten Restart) endlich sein. 
-- Jail-System 
+- Waren des Waffenhändlers (Illegal) auf der Server-Seite überarbeitet
+- Items werden bei Farmen pro Server-Run-Time (bis zum nächsten Restart) endlich sein.
+- Jail-System
 - Drogen können genutzt werden (und haben dann auch eine Wirkung)
 
 ## Personal Menu (K-Menü)
@@ -49,7 +49,20 @@
 - Jeder Mitarbeiter + CEO kann Rechnungen im Namen des Unternehmes ausstellen
 
 ## Gruppe 6 + Heist 
-- TODO
+- **-- Heist --**
+- Der Transporter muss geklaut werden um ihn Abzuliefern. Dafür bekommt man bis zu $45.000 Cash
+- Beim Start des Transport wird eine Nachricht an alle Civs gesendet
+
+## Rund um die Fahrzeuge
+- Neuer Fahrzeug Shop
+- Fahrzeuge sind Testbar
+- neue Fahrzeuge im Shop
+- **-- Fahrzeug Menu [U] --**
+- Design geändert
+- Ingame Benachrichtigung für den eCall verbessert -> Staatsfraktionen bekommen nun direkt die Infos :D
+- eCall kann nur noch vom Fahrer und dem Beifahrer (rechts vom Fahrer) ausgelöst werden.
+- eCall Daten sind nun Prezieser
+- der eCall hat nun eine "Alarm" und ist nicht mehr lauter als sonst.
 
 ## Fixes
 - Fixed Holster (wieder die alten hinzugefügt)
