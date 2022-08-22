@@ -68,6 +68,7 @@
 - Fixed Holster (wieder die alten hinzugefügt)
 - Fixed Handy Photos (Man ist nicht mehr in der Cam gefangen)
 - Fixed Random Fires (Dienstzahl wird vernünftig updated)
+- Fixed Loading (man sollte jetzt beim joinen definitiv nicht mehr durch die Map fallen)
 
 ## Sonstiges 
 - SAFR bekommt eine neue Feuerwache
