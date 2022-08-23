@@ -72,4 +72,4 @@
 
 ## Sonstiges 
 - SAFR bekommt eine neue Feuerwache
-- Neue Fahrzeuge (20 Stück)
+- DOJ bekommt ein neues Gebäude
