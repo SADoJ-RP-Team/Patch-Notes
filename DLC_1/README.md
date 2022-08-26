@@ -48,10 +48,8 @@
 - Job Menü für alle Mitarbeiter
 - Jeder Mitarbeiter + CEO kann Rechnungen im Namen des Unternehmes ausstellen
 
-## Gruppe 6 + Heist 
-- **-- Heist --**
-- Der Transporter muss geklaut werden um ihn Abzuliefern. Dafür bekommt man bis zu $45.000 Cash
-- Beim Start des Transport wird eine Nachricht an alle Civs gesendet
+## Unione Depository | Raubüberfall
+- Du hast du möglichkeit einen Geld-Transporter zu Überfallen, aber pass auf, nur der Transporter bringt dir was. Also bringe ihn zum Käufer!
 
 ## Rund um die Fahrzeuge
 - Neuer Fahrzeug Shop
